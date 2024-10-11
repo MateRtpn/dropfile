@@ -1,0 +1,12 @@
+# ละเว้น node_modules
+node_modules/
+
+# ละเว้นไฟล์ที่มีนามสกุล .log
+*.log
+
+# ละเว้นไฟล์ .env
+.env
+
+# ละเว้นไฟล์ที่สร้างโดย IDE
+.DS_Store
+Thumbs.db
